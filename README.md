@@ -1,4 +1,4 @@
-# Ekumen technicall challenge
+# ROS practice
 
 ROS nodes that makes turtlesim's simulated robot reach specific goals, drawing the path on the screen.
 
@@ -85,7 +85,7 @@ rosrun tech_mvazquez rqt_tech_mvazquez
 
 ## License
 
-This project is licensed under the BSD License - see the [LICENSE](https://opensource.org/licenses/BSD-3-Clause) link for details.
+This project is licensed under the GNU  License - see the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) link for details.
 
 ## Improvements
 
