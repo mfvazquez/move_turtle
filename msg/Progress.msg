@@ -1,0 +1,2 @@
+uint32 linear_distance
+uint32 angular_distance

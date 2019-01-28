@@ -1,0 +1,10 @@
+<launch>
+
+  <group ns="tech_mvazquez">
+    <node pkg="turtlesim" name="turtle1" type="turtlesim_node"/>
+    <node pkg="tech_mvazquez" name="turtle_action_server" type="Turtle.py"/>
+  </group>
+
+  <node pkg="tech_mvazquez" name="ui_action_client" type="rqt_tech_mvazquez"/>
+  <node pkg="rqt_graph" name="rqt_graph" type="rqt_graph"/>
+</launch>

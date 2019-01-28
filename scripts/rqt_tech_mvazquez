@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+
+import sys
+
+from rqt_tech_mvazquez.my_module import UI
+from rqt_gui.main import Main
+
+plugin = 'tech_mvazquez'
+main = Main(filename=plugin)
+sys.exit(main.main(standalone=plugin))
