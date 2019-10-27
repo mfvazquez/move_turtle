@@ -56,7 +56,7 @@ catkin_make
 source devel/setup.bash
 ```
 
-### Runing
+### Running
 
 To launch the entire system run the following command
 
